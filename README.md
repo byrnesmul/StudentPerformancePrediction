@@ -84,6 +84,11 @@ Training took under 5 minutes per model.
 ROC curves for each grade class were plotted to evaluate discriminative ability, showing Random Forest and Gradient Boosting performed similarly well.
 
 ### ROC Curve Comparison
+*Insert your saved ROC plot here with:*
+
+```markdown
+![](ROC_Student.png)
+
 ## Conclusions
 
 Random Forest and Gradient Boosting proved to be effective for this multi-class classification task, achieving strong balanced F1-scores over 90%. Logistic Regression performed less well due to the complex, non-linear nature of the problem. Key predictors of student performance included study time, parental support, absences, and GPA.
@@ -150,9 +155,3 @@ Run all notebook cells in `StudentPerformancePrototype.ipynb` to reproduce metri
 ## Citation
 
 > Byrnes Mulumbeni (2025). *Multi-class Classification of Student Grades with Tabular Data.* University of Texas at Arlington.
-
-
-*Insert your saved ROC plot here with:*
-
-```markdown
-![](ROC_Student.png)
