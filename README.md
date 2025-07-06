@@ -88,7 +88,7 @@ ROC curves for each grade class were plotted to evaluate discriminative ability,
 
 ```markdown
 ![](ROC_Student.png)
-
+```
 ## Conclusions
 
 Random Forest and Gradient Boosting proved to be effective for this multi-class classification task, achieving strong balanced F1-scores over 90%. Logistic Regression performed less well due to the complex, non-linear nature of the problem. Key predictors of student performance included study time, parental support, absences, and GPA.
