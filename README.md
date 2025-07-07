@@ -157,4 +157,6 @@ Run all notebook cells in `StudentPerformancePrototype.ipynb` to reproduce metri
 
 ## Citation
 
-> Byrnes Mulumbeni (2025). *Multi-class Classification of Student Grades with Tabular Data.* University of Texas at Arlington.
+> Rabie El Kharoua
+> [Student Performance Dataset](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset)
+
