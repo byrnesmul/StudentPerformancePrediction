@@ -46,7 +46,7 @@ The goal of this project is to predict a student’s grade class (A–F, encoded
 Insights included that higher weekly study time and parental support related to higher grades, while higher absences correlated with lower grades.
 
 ![](Pictures/StudyTime.png)
-![](Pictures/absences.png)
+![](Pictures/absence.png)
 ![](Pictures/gpa.png)
 ---
 
