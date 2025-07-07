@@ -1,3 +1,5 @@
+![](Pictures/UTA-DataScience-Logo.png)
+
 # 🎓 Student Performance Prediction
 
 ## One Sentence Summary
