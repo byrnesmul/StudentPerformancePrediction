@@ -1,6 +1,6 @@
 ![](Pictures/UTA-DataScience-Logo.png)
 
-# 🎓 Student Performance Prediction
+# Student Performance Prediction
 
 ## One Sentence Summary
 This repository predicts student grade classes (A–F) using a tabular dataset of demographics, study habits, and extracurricular activities.
