@@ -123,11 +123,12 @@ Random Forest and Gradient Boosting proved to be effective for this multi-class 
 
 | File                               | Description                                      |
 |:-----------------------------------|:-------------------------------------------------|
-| `StudentPerformancePrototype.ipynb`| Main notebook with the full pipeline              |
+| `StudentPerformance.ipynb`         | Main notebook with the full pipeline              |
 | `cleaned_student_data.csv`         | Cleaned, scaled dataset                           |
-| `submission.csv`                   | Optional prediction file                          |
-| `train.csv`                        | Training dataset                                  |
-| `test.csv`                         | Test dataset                                      |
+| `StudentPerformancedata.csv`       | Original dataset from Kaggle                      |
+| `Feasibily.ipynb`                  | Checking feability of the project                 |
+| `Prototype.ipynb`                     | Prototype(First Model Trained)                    |
+
 
 ---
 
