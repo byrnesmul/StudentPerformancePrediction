@@ -109,7 +109,7 @@ Random Forest and Gradient Boosting proved to be effective for this multi-class 
 ## How to Reproduce Results
 
 1. Clone this repository  
-2. Open `StudentPerformancePrototype.ipynb`  
+2. Open `StudentPerformance.ipynb`  
 3. Install dependencies:
     ```bash
     pip install pandas numpy scikit-learn matplotlib
@@ -126,7 +126,7 @@ Random Forest and Gradient Boosting proved to be effective for this multi-class 
 | `StudentPerformance.ipynb`         | Main notebook with the full pipeline              |
 | `cleaned_student_data.csv`         | Cleaned, scaled dataset                           |
 | `StudentPerformancedata.csv`       | Original dataset from Kaggle                      |
-| `Feasibily.ipynb`                  | Checking feability of the project                 |
+| `Fesabily.ipynb`                  | Checking fesability of the project                 |
 | `Prototype.ipynb`                     | Prototype(First Model Trained)                    |
 
 
@@ -151,7 +151,7 @@ Random Forest and Gradient Boosting proved to be effective for this multi-class 
 
 ## Performance Evaluation
 
-Run all notebook cells in `StudentPerformancePrototype.ipynb` to reproduce metrics and plots, including ROC curves and grouped bar plots comparing model performance.
+Run all notebook cells in `StudentPerformance.ipynb` to reproduce metrics and plots, including ROC curves and grouped bar plots comparing model performance.
 
 ---
 
