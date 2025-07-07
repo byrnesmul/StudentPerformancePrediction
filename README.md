@@ -45,6 +45,9 @@ The goal of this project is to predict a student’s grade class (A–F, encoded
 
 Insights included that higher weekly study time and parental support related to higher grades, while higher absences correlated with lower grades.
 
+![](Pictures/StudyTime.png)
+![](Pictures/absences.png)
+![](Pictures/gpa.png)
 ---
 
 ## Problem Formulation
@@ -83,14 +86,11 @@ Training took under 5 minutes per model.
 | Logistic Regression   | 0.674    | 0.605     | 0.674  | 0.624    |
 | Gradient Boosting     | 0.910    | 0.911     | 0.910  | 0.908    |
 
+![](Pictures/modelscomparison.png)
 ROC curves for each grade class were plotted to evaluate discriminative ability, showing Random Forest and Gradient Boosting performed similarly well.
 
 ### ROC Curve Comparison
-*Insert your saved ROC plot here with:*
-
-```markdown
-![](ROC_Student.png)
-```
+![](Pictures/ROCCurve.png)
 ## Conclusions
 
 Random Forest and Gradient Boosting proved to be effective for this multi-class classification task, achieving strong balanced F1-scores over 90%. Logistic Regression performed less well due to the complex, non-linear nature of the problem. Key predictors of student performance included study time, parental support, absences, and GPA.
