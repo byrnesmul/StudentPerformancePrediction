@@ -99,6 +99,8 @@ ROC curves for each grade class were plotted to evaluate discriminative ability,
 
 Random Forest and Gradient Boosting proved to be effective for this multi-class classification task, achieving strong balanced F1-scores over 90%. Logistic Regression performed less well due to the complex, non-linear nature of the problem. Key predictors of student performance included study time, parental support, absences, and GPA.
 
+While GPA was strongly correlated with the final grade class (as expected), additional features such as weekly study time, absences, and parental support also contributed meaningfully. Feature importance analysis showed that although GPA had a high weight, removing it from the dataset reduced model accuracy by only ~12%, indicating other features played a non-negligible role.
+
 ---
 
 ## Future Work
