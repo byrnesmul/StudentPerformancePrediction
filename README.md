@@ -10,6 +10,8 @@ This repository predicts student grade classes (A–F) using a tabular dataset o
 ## Overview
 The goal of this project is to predict a student’s grade class (A–F, encoded as 0–4) using demographic, study habits, and activity-related features from a tabular dataset. We formulated this as a multi-class classification problem and trained three models (Random Forest, Logistic Regression with One-vs-Rest, and Gradient Boosting) on a cleaned and standardized dataset. We compared their performance using accuracy, precision, recall, F1-score, and ROC curves. Random Forest and Gradient Boosting performed best, achieving validation accuracies over 90%, while Logistic Regression performed less strongly. These results show the value of supervised machine learning to help identify at-risk students and inform potential interventions.
 
+**Dataset Source**: The dataset was obtained from [Student Performance dataset](https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset), originally uploaded by Rabie El Kharoua. It contains anonymized records on 2,392 students including demographic, academic, and behavioral features.
+
 ---
 
 ## Summary of Work Done
